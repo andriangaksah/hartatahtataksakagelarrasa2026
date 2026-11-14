@@ -1,0 +1,2 @@
+CREATE DATABASE gelar_rasa_2026;
+GO
